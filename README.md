@@ -1,9 +1,9 @@
 # PA 604: Methods of Analysis in Public and Urban Affairs
-**San Diego State University — Fall 2025**
+**San Diego State University — Semester & Year**
 
 > *An introduction to social science research methods for graduate students in public and urban affairs.*
 
----
+
 
 ## 📋 Course Information
 
@@ -11,12 +11,12 @@
 |---|---|
 | **Instructor** | Burrel Vann Jr |
 | **Email** | bvannjr@sdsu.edu |
-| **Room** | AH 2134 |
-| **Day & Time** | Wednesdays, 4:00 PM – 6:40 PM |
-| **Schedule #** | 3447 |
-| **Office Hours** | Mondays, 1:00 PM – 2:00 PM (Zoom, by appointment) |
+| **Room** | TBD |
+| **Day & Time** | Day, Start Time – End Time |
+| **Schedule #** | Schedule Number |
+| **Office Hours** | Day, Start Time – End Time (Zoom, by appointment) |
 
----
+
 
 ## 📖 Course Description
 
@@ -32,9 +32,9 @@ This course introduces students to the logic and practice of social science rese
 
 Students may also be introduced to computational social science techniques such as automated content analysis, text analysis, and topic modeling.
 
----
 
-## 🎯 Learning Objectives
+
+## 🎯 Course Learning Objectives
 
 By the end of this course, students will be able to:
 
@@ -44,17 +44,18 @@ By the end of this course, students will be able to:
 4. Design a study to test those hypotheses
 5. Design a data collection strategy with measures that accurately reflect the study design
 
----
 
-## 📚 Required Materials
 
+## 📚 Materials
+
+**Required:**
 - **Babbie, Earl.** (2005). *The Basics of Social Research*, 2nd Edition. Wadsworth Publishing.
 - **Articles & Book Chapters** — assigned throughout the semester (see schedule below)
 
 **Recommended:**
 - **Becker, Howard S.** (2007). *Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article.* University of Chicago Press.
 
----
+
 
 ## 💻 Technology
 
@@ -63,9 +64,9 @@ Students must have access to a computer with an internet connection. The followi
 - **Google Drive** — for submitting writing assignments (Google Docs), qualitative coding (Google Forms), and data preparation (Google Sheets)
 - **R / RStudio** — open-source statistical software used for quantitative analysis
 - **Zotero** — reference management software for citations
-- **Canvas / Slack** — course communication platforms
+- **Canvas** — course communication platforms
 
----
+
 
 ## 📊 Grading
 
@@ -75,7 +76,7 @@ The course is worth **200 points total**. A +/− grading system is **not** used
 |---|---|---|
 | Course Preparation Module | 50 | 25% |
 | Course Engagement | 50 | 25% |
-| RQ & Methods Presentations | 20 | 10% |
+| Research Question Presentation & Methods Presentation | 20 | 10% |
 | Draft "Introduction" | 15 | 7.5% |
 | Draft "Literature Review" | 15 | 7.5% |
 | Draft "Data & Methods" | 15 | 7.5% |
@@ -93,7 +94,7 @@ The course is worth **200 points total**. A +/− grading system is **not** used
 | D | 60% and above |
 | F | Below 60% |
 
----
+
 
 ## 📅 Course Schedule
 
@@ -116,9 +117,9 @@ The course is worth **200 points total**. A +/− grading system is **not** used
 | 15 | Dec 3 | Reading/Writing Research | Draft "Data & Methods" (12/6) |
 | 16 | Dec 12–18 | Final Project | Final Proposal (12/18) |
 
----
 
-## 📝 Major Assignments
+
+## 📝 Assignments
 
 ### Course Preparation Module (50 pts)
 Completed during Week 1. Includes verifying email policy, Google Doc submission setup, installing R/RStudio and Zotero, updating your course profile, and posting a video introduction on the discussion board.
@@ -141,18 +142,15 @@ Three draft sections submitted progressively: Introduction, Literature Review, a
 ### Final Research Proposal (15 pts)
 A 3–5 page research proposal formatted for SDSU's IRB or a funding organization, using ASA/APA citation style.
 
----
+
 
 ## 📌 Course Policies
 
 ### Late Work
 Late work is generally not accepted. In extreme circumstances, late submissions may be considered with written documentation, but this is not guaranteed.
 
-### Regrading
-Regrade requests must be submitted in writing within **7 days** of receiving a graded assignment. Note: regrades may result in a lower grade.
-
 ### Email
-Include the course number and time in all emails. Emails are checked Monday–Friday, 9:00 AM–5:00 PM. Allow up to **72 hours** for a response.
+Include the course number and time in all emails. Emails are checked twice per day, Monday–Friday, 9:00 AM–5:00 PM. Allow up to **72 hours** for a response.
 
 ### Academic Integrity
 Cheating and plagiarism are strictly prohibited per SDSU Executive Order 1098. Violations may result in a failing grade and disciplinary review, up to and including suspension or expulsion.
@@ -160,13 +158,13 @@ Cheating and plagiarism are strictly prohibited per SDSU Executive Order 1098. V
 ### Extra Credit
 Extra credit opportunities (up to 10 points) may be offered. Extra credit is only accepted by the stated deadline.
 
----
+
 
 ## 🎓 Enrollment
 
 **Prerequisites:** Credit or concurrent enrollment in PA 600. Open only to graduate students in city planning, criminal justice, criminology, or public administration.
 
----
+
 
 ## 🤝 Campus Resources
 
@@ -178,12 +176,12 @@ Extra credit opportunities (up to 10 points) may be offered. Extra credit is onl
 | SDSU Writing Center | Available in person and online |
 | Library Computing Hub (Canvas support) | 619-594-3189 · hub@sdsu.edu |
 
----
+
 
 ## 🌐 Diversity, Equity & Inclusion
 
 This course is committed to honoring the diversity of student experiences across race, ethnicity, culture, language, sex, gender identity and expression, sexual orientation, national origin, religion, age, ability, and non-traditional student status. We strive to highlight how equity can be achieved through inclusive scholarship and practice.
 
----
+
 
 *Syllabus is subject to change. Any updates will be communicated through Canvas.*
