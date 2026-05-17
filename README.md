@@ -5,7 +5,7 @@
 
 
 
-## 📋 Course Information
+## Course Information
 
 | | |
 |---|---|
@@ -18,7 +18,7 @@
 
 
 
-## 📖 Course Description
+## Course Description
 
 This course introduces students to the logic and practice of social science research. Students will learn to critically evaluate published research and design research of their own. Topics include:
 
@@ -34,7 +34,7 @@ Students may also be introduced to computational social science techniques such 
 
 
 
-## 🎯 Course Learning Objectives
+## Course Learning Objectives
 
 By the end of this course, students will be able to:
 
@@ -46,7 +46,7 @@ By the end of this course, students will be able to:
 
 
 
-## 📚 Materials
+## Materials
 
 **Required:**
 - **Babbie, Earl.** (2005). *The Basics of Social Research*, 2nd Edition. Wadsworth Publishing.
@@ -57,7 +57,7 @@ By the end of this course, students will be able to:
 
 
 
-## 💻 Technology
+## Technology
 
 Students must have access to a computer with an internet connection. The following tools are used in this course:
 
@@ -68,7 +68,7 @@ Students must have access to a computer with an internet connection. The followi
 
 
 
-## 📊 Grading
+## Grading
 
 The course is worth **200 points total**. A +/− grading system is **not** used.
 
@@ -96,7 +96,7 @@ The course is worth **200 points total**. A +/− grading system is **not** used
 
 
 
-## 📅 Course Schedule
+## Course Schedule
 
 | Week | Date | Topic | Assignments Due |
 |---|---|---|---|
@@ -119,7 +119,7 @@ The course is worth **200 points total**. A +/− grading system is **not** used
 
 
 
-## 📝 Assignments
+## Assignments
 
 ### Course Preparation Module (50 pts)
 Completed during Week 1. Includes verifying email policy, Google Doc submission setup, installing R/RStudio and Zotero, updating your course profile, and posting a video introduction on the discussion board.
@@ -144,7 +144,7 @@ A 3–5 page research proposal formatted for SDSU's IRB or a funding organizatio
 
 
 
-## 📌 Course Policies
+## Course Policies
 
 ### Late Work
 Late work is generally not accepted. In extreme circumstances, late submissions may be considered with written documentation, but this is not guaranteed.
@@ -160,13 +160,13 @@ Extra credit opportunities (up to 10 points) may be offered. Extra credit is onl
 
 
 
-## 🎓 Enrollment
+## Enrollment
 
 **Prerequisites:** Credit or concurrent enrollment in PA 600. Open only to graduate students in city planning, criminal justice, criminology, or public administration.
 
 
 
-## 🤝 Campus Resources
+## Campus Resources
 
 | Resource | Contact |
 |---|---|
@@ -178,7 +178,7 @@ Extra credit opportunities (up to 10 points) may be offered. Extra credit is onl
 
 
 
-## 🌐 Diversity, Equity & Inclusion
+## Diversity, Equity & Inclusion
 
 This course is committed to honoring the diversity of student experiences across race, ethnicity, culture, language, sex, gender identity and expression, sexual orientation, national origin, religion, age, ability, and non-traditional student status. We strive to highlight how equity can be achieved through inclusive scholarship and practice.
 
